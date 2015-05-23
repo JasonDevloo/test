@@ -1,5 +1,5 @@
 # test
 RepoTest
 
-I love :pizza 
+I love :pizza: 
 
